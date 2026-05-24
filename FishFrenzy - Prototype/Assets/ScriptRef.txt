@@ -1,0 +1,10 @@
+First Person Drifter Controller - GDS2 Canvas
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Physics.Raycast.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Component.CompareTag.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Renderer-material.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Rigidbody.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Transform.SetParent.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Object.Instantiate.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Random.Range.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/MonoBehaviour.InvokeRepeating.html
+https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1?view=netframework-4.8.1

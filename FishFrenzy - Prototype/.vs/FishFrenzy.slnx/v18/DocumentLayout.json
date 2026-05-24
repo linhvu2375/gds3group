@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\gd projects\\2026 sem 1\\gds3\\a3\\unity project\\fishfrenzy\\assets\\scriptref.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptref.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\gd projects\\2026 sem 1\\gds3\\a3\\unity project\\fishfrenzy\\assets\\script\\ffcamouflage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ffcamouflage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\gd projects\\2026 sem 1\\gds3\\a3\\unity project\\fishfrenzy\\assets\\script\\lapsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lapsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\gd projects\\2026 sem 1\\gds3\\a3\\unity project\\fishfrenzy\\assets\\script\\checkpointtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\checkpointtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScriptRef.txt",
+              "DocumentMoniker": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\ScriptRef.txt",
+              "RelativeDocumentMoniker": "Assets\\ScriptRef.txt",
+              "ToolTip": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\ScriptRef.txt",
+              "RelativeToolTip": "Assets\\ScriptRef.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-24T13:51:16.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FFCamouflage.cs",
+              "DocumentMoniker": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\Script\\FFCamouflage.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FFCamouflage.cs",
+              "ToolTip": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\Script\\FFCamouflage.cs",
+              "RelativeToolTip": "Assets\\Script\\FFCamouflage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:39:01.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LapSystem.cs",
+              "DocumentMoniker": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\Script\\LapSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LapSystem.cs",
+              "ToolTip": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\Script\\LapSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\LapSystem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T10:37:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckpointTrigger.cs",
+              "DocumentMoniker": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\Script\\CheckpointTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CheckpointTrigger.cs",
+              "ToolTip": "D:\\GD Projects\\2026 Sem 1\\GDS3\\A3\\Unity Project\\FishFrenzy\\Assets\\Script\\CheckpointTrigger.cs",
+              "RelativeToolTip": "Assets\\Script\\CheckpointTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:15:06.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
